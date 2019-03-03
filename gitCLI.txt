@@ -24,8 +24,15 @@ Check status of working tree
 Add a commit message
   git commit -m "[git commit message]"
 
+List remote (github) repositories
+  git remote
+
+Add remote repository
+  git remoe add origin [https://url.git]
+
 Push to remote repository
-  git Push
+  git Push -u origin master
+  [will have to login]
 
 Pull latest from remote repository
   git Pull
