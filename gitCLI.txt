@@ -1,0 +1,8 @@
+Commands for gitCLI
+  https://guides.github.com/introduction/git-handbook/#basic-git
+
+
+
+Initialize Git project
+  git Init 
+
